@@ -1,0 +1,5 @@
+/*************************************/
+Poner BASE DE DATOS en MYSQL oracle developer
+/************************************/
+-abrir cmd y poner mysql -u root
+-source y ruta del archivo
